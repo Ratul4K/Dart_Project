@@ -29,8 +29,8 @@ class HomePage extends StatelessWidget {
               decoration: BoxDecoration(
                 color: Color(0xFF686DCE),
               ),
-              accountName: Text('Ratul'),
-              accountEmail: Text('ratul@gmail.com'),
+              accountName: Text('DayFlow User'),
+              accountEmail: Text('user@example.com'),
               currentAccountPicture: CircleAvatar(
                 backgroundColor: Colors.white,
                 child: Icon(
